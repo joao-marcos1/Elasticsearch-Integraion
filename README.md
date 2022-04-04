@@ -1,11 +1,5 @@
-# Elasticsearch
+# Elasticsearch Integration
 
-[![Ruby 2.7](https://github.com/elastic/elasticsearch-rails/workflows/Ruby%202.7/badge.svg)](https://github.com/elastic/elasticsearch-rails/actions)
-[![Ruby 2.6](https://github.com/elastic/elasticsearch-rails/workflows/Ruby%202.6/badge.svg)](https://github.com/elastic/elasticsearch-rails/actions)
-[![Ruby 2.5](https://github.com/elastic/elasticsearch-rails/workflows/Ruby%202.5/badge.svg)](https://github.com/elastic/elasticsearch-rails/actions)
-[![Ruby 2.4](https://github.com/elastic/elasticsearch-rails/workflows/Ruby%202.4/badge.svg)](https://github.com/elastic/elasticsearch-rails/actions)
-[![JRuby](https://github.com/elastic/elasticsearch-rails/workflows/JRuby/badge.svg)](https://github.com/elastic/elasticsearch-rails/actions)
-[![Code Climate](https://codeclimate.com/github/elastic/elasticsearch-rails/badges/gpa.svg)](https://codeclimate.com/github/elastic/elasticsearch-rails)
 
 This repository contains various Ruby and Rails integrations for [Elasticsearch](http://elasticsearch.org):
 
@@ -20,7 +14,7 @@ This repository contains various Ruby and Rails integrations for [Elasticsearch]
 * Templates for generating example Rails application
 
 Elasticsearch client and Ruby API is provided by the
-**[elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby)** project.
+**[elasticsearch-ruby]()** project.
 
 ## Installation
 
